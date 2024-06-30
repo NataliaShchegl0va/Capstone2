@@ -37,25 +37,25 @@ I assume Sales team of any e-commerce company would have this kind of report ava
 Target feature: Status
 
 Features to use in analysis: 
-Fulfillment
-Sales Channel
-Ship-service-level
-Style
-SKU
-Category
-Size
-Amount
-Ship-city
-Ship-state
-ship-postal-code
-Promotion-ids
-B2B
-Fulfilled-by
-Date
+Fulfillment, 
+Sales Channel, 
+Ship-service-level, 
+Style, 
+SKU, 
+Category, 
+Size, 
+Amount, 
+Ship-city, 
+Ship-state, 
+ship-postal-code, 
+Promotion-ids, 
+B2B, 
+Fulfilled-by, 
+Date.
 
 Additional features to add to the analysis (from ‘Sale Report’ table):
-Stock
-Color
+Stock,
+Color.
 
 Additional data that could have been helpful in this analysis:
 Customer data: demographics, whether the customer is new or returning, history of previous order cancellations, etc (could be acquired from CRM system).
